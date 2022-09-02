@@ -1,1 +1,1 @@
-list of hidden files
+script that prints files
