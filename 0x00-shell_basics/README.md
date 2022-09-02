@@ -1,1 +1,1 @@
-script that prints files
+symbols and symbol inhabit
