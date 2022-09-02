@@ -1,1 +1,1 @@
-script that prints effective username
+changing hello to betty
