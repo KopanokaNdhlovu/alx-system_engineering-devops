@@ -1,1 +1,1 @@
-how to execute multiple permissions
+giving everyone permission
