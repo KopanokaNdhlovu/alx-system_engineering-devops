@@ -1,1 +1,1 @@
-more permissions
+ a script that changes the group owner
