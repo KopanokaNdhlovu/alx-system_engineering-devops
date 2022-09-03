@@ -1,1 +1,1 @@
- executing permissions
+how to execute multiple permissions
