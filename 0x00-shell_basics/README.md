@@ -1,1 +1,1 @@
-creating new files
+working with school.mgc files
