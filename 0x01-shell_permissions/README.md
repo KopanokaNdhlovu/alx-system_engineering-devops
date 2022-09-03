@@ -1,1 +1,1 @@
-script that sets the mode
+mirror olleh onto hello
