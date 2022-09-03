@@ -1,1 +1,1 @@
-task 15 permisions to change owners
+changing owner if guillaume is owner
