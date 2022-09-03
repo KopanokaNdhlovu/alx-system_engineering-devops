@@ -1,1 +1,1 @@
-moving all files starting with uppercase
+removing all /root in files
