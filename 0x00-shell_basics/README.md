@@ -1,1 +1,1 @@
-removing all /root in files
+working on tree and making directories
