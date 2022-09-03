@@ -1,1 +1,1 @@
-mirror olleh onto hello
+permissions in directory
